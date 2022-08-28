@@ -40,7 +40,7 @@
 
 # The effect of sound
 
-<img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F13%2F2015%2F04%2F05%2Ffeatured.jpg" width=400>
+<img src="https://media1.giphy.com/media/MQ4bWOjn8C9tT2dzIb/giphy.gif" width=350>
 
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry...
